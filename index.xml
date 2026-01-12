@@ -4,6 +4,11 @@
     <title>Alexander Maldonado</title>
     <link>https://mc-alexander.github.io/</link>
     <description>Recent content on Alexander Maldonado</description>
+    <image>
+      <title>Alexander Maldonado</title>
+      <url>https://mc-alexander.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mc-alexander.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <atom:link href="https://mc-alexander.github.io/index.xml" rel="self" type="application/rss+xml" />
